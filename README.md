@@ -1,3 +1,5 @@
-Currently a 4th semester CS student at the IDC, looking for an internship.
-I am a math tutor and a dog trainer on my free time, having great time management skills. 
-Also, for the last 5 years, I volunteer once a week at Tiktek- The Social Network for Education in Israel, with over 150K "helping units
+Hello there! My name is Jonathan Erell, and I am a data scientist with a passion for solving complex problems using machine learning and data science. I completed my BSc in Computer Science at Reichman University, and currently pursuing a Master's degree in Machine Learning and Data Science at the same university, where I am continuing to develop my skills and knowledge in the field.
+
+I am currently employed as a data scientist at Enviro-Manager, where I work on global environmental projects. In this role, I have been involved in developing predictive models for flood, wildfire, and extreme weather predictions. It is my goal to use my expertise to make a positive impact on the world by addressing important environmental challenges.
+
+On my GitHub page, you will find a collection of my work, including projects, research papers, and code samples. I am constantly seeking to improve my skills and knowledge, so feel free to reach out to me if you have any questions or want to collaborate on a project. Thank you for taking the time to visit my page!
